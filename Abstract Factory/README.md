@@ -78,7 +78,7 @@ indicating the kind of object to create. This is the technique used in the
 Prototype- and the class-based abstract factories discussed earlier.
 
 ## Examples:
-* [Shape Factory](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Abstract%20Factory/src/shapeFactory)
+* [Shape and Color Abstract Factory](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Abstract%20Factory/src/shapeFactory)
 
 ## Research Sources:
 * Design Patterns: Elements of Reusable Object-Oriented Software
