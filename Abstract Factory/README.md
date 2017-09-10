@@ -79,3 +79,7 @@ Prototype- and the class-based abstract factories discussed earlier.
 
 ## Examples:
 * [Shape Factory](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Abstract%20Factory/src/shapeFactory)
+
+## Research Sources:
+* Design Patterns: Elements of Reusable Object-Oriented Software
+* [Tutorials Point](https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm)
