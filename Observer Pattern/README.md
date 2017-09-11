@@ -115,12 +115,11 @@ event occurs, the subjectinforms only those observers that have registered
 interest in thatevent. One way to support this uses the notion ofaspects
 for Subject objects. To register interest in particular events, observers
 are attached to theirsubjects using:
-    ```void attach(Observer observer);```
-    
-Where interest specifies the eventof interest. At notification time, the
+    ```void attach(Observer observer);```Where interest specifies the eventof interest. At notification time, the
 subject supplies the changedaspect to its observers as a parameter to the
 Update operation. For example:
     ```void update(Subject subject);```
+    
 1. Encapsulating complex update semantics.When the dependency relationship
 between subjects and observers isparticularly complex, an object that
 maintains these relationships mightbe required. We call such an object a
