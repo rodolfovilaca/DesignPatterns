@@ -59,7 +59,7 @@ its products by overriding the factory method for each. While this
 implementation is simple, it requires a new concrete factory subclass for
 each product family, even if the product families differ only slightly.
 If many product families are possible, the concrete factory can be
-implemented using the Prototype pattern. The concrete factory is
+implemented using the Prototype pattern([link](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Prototype%20Pattern)). The concrete factory is
 initialized with a prototypical instance of each product in the family,
 and it creates a new product by cloning its prototype. The Prototype-based
 approach eliminates the need for a new concrete factory class for each new
