@@ -35,4 +35,4 @@ The null behavior is not designed to be mixed into an object that needs some do 
 It is designed for a class which delegates to a collaborator all of the behavior that may or may not be do nothing behavior.
 
 ## Examples
-[Shape Factory with Null Object](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Observer%20Pattern/src/dataObserver)
+[Shape Factory with Null Object](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Null%20Object%20Pattern/src/shapeFactoryNullPattern)
