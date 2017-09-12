@@ -63,4 +63,4 @@ framework for Macintoshapplications [App89] prefixes template method names
 with "Do-":"DoCreateDocument", "DoRead", and so forth.
     
 ## Examples
-[Worker Template](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Observer%20Pattern/src/dataObserver)
+[Worker Template](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Template%20Method%20Pattern/src/workerTemplate)
