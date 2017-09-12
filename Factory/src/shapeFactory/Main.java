@@ -1,5 +1,5 @@
-import shapeFactory.Shape;
-import shapeFactory.ShapeFactory;
+package shapeFactory;
+
 import shapeFactory.ShapeFactory.shapeType;
 
 public class Main {
