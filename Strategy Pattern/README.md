@@ -100,4 +100,4 @@ todeal with Strategy objects at all unless they don't like thedefault
 behavior.
     
 ## Examples
-[Payment Strategy](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Observer%20Pattern/src/dataObserver)
+[Payment Strategy](https://github.com/rodolfovilaca/DesignPatterns/tree/master/Strategy%20Pattern/src/paymentStrategy)
